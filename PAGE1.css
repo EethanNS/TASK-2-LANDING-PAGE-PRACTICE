@@ -1,0 +1,51 @@
+/*
+blue-->#577afb
+Blue -->#09a3fa
+*/
+
+body {
+  margin: 0;
+  background: url(https://wallpapercave.com/wp/wp8742458.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  color: white;
+  font-family: monospace;
+}
+header {
+  text-decoration: none;
+  color: inherit;
+  display: flex;
+  justify-content: space-between;
+}
+.home-link > a {
+  display: flex;
+  align-items: flex;
+  width: 100px;
+  height: 100px;
+}
+.home-link > img {
+  width: 10px;
+  height: auto;
+  display: flex;
+  margin: 120px, 120px;
+}
+home-link > h1 {
+  width: 100px;
+  margin-left: 16px;
+  color: white;
+}
+.nav-links {
+  align-items: center;
+  font-size: 16px;
+  font-weight: bold;
+  display: flex;
+  gap: 24px;
+}
+.primary-btn {
+  padding: 12px, 24px;
+  background-color: #577afb;
+  border-radius: 24px;
+  border: none;
+  color: white;
+}
